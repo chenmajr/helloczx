@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/0-3.jpg</file>
+        <file>image/back.png</file>
+        <file>image/bgm.jpg</file>
+        <file>image/black.png</file>
+        <file>image/blue.png</file>
+        <file>image/close.png</file>
+        <file>image/comboxitem1.png</file>
+        <file>image/comboxitem2.png</file>
+        <file>image/comboxitem3.png</file>
+        <file>image/down.png</file>
+        <file>image/end.png</file>
+        <file>image/end1.png</file>
+        <file>image/handle.png</file>
+        <file>image/no_2333.png</file>
+        <file>image/nostudi.png</file>
+        <file>image/no_voice.png</file>
+        <file>image/pic.png</file>
+        <file>image/point.png</file>
+        <file>image/redLine.jpg</file>
+        <file>image/search.png</file>
+        <file>image/start.png</file>
+        <file>image/start1.png</file>
+        <file>image/up.png</file>
+        <file>image/voice.png</file>
+        <file>image/voice_2.png</file>
+        <file>image/111.jpg</file>
+    </qresource>
+</RCC>
